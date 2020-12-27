@@ -1,6 +1,8 @@
 import random
 import time
 
+isim=input("Lütfen isminizi giriniz: ")
+print(f"Merhaba {isim}")
 while (True):
     oyun = input("Yeni Oyun [E/H] :")
     if (oyun == "E"):
