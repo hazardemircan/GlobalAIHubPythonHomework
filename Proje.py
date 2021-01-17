@@ -1,5 +1,4 @@
-### :( Başka ödevlerden dolayı projeyi yetiştiremedim o yüzden yarım bırakmak zorunda kaldım :(
-
+### :( Yarım kaldı :(
 
 
 class islemler:
